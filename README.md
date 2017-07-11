@@ -36,7 +36,7 @@ A list of resources/references for Deep Reinforcement Learning
 * Coordinated Multi-Agent Imitation Learning[[Paper](https://arxiv.org/abs/1703.03121)]
   * [Caltech] Hoang M. Le, Yisong Yue, Peter Carr, arXiv:1703.03121. Mar 2017.
 
-* Continual Learning Through Synaptic Intelligence[[Paper]()https://arxiv.org/abs/1703.04200]
+* Continual Learning Through Synaptic Intelligence[[Paper](https://arxiv.org/abs/1703.04200)]
   * Friedemann Zenke, Ben Poole, Surya Ganguli, arXiv:1703.04200. Mar 2017.
 
 ### Game Theory related
