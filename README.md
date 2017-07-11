@@ -61,5 +61,5 @@ A list of resources/references for Deep Reinforcement Learning
 ## Workshops
 * [NIPS 2016] [Deep Reinforcement Learning Workshop](https://sites.google.com/site/deeprlnips2016/)
 
-### Tutorials
+## Tutorials
 * [NIPS 2016] [Theory and Algorithms for Forecasting Non-Stationary Time Series](http://www.cs.nyu.edu/~mohri/talks/NIPSTutorial2016.pdf)
